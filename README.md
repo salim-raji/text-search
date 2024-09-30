@@ -1,5 +1,5 @@
 # text-search
-Steps to run the files:
+Steps to run the files: <br/>
 Create a file on VSCODE.
 Open Terminal.
 run: npm create vite@latest my-react-app --template react
