@@ -1,14 +1,14 @@
 # text-search
 Steps to run the files: <br/>
-Create a file on VSCODE.
-Open Terminal.
-run: npm create vite@latest my-react-app --template react
-choose React then Javascript
-run: cd my-react-app
-run: npm install
-run: npm run dev
+Create a file on VSCODE.<br/>
+Open Terminal. <br/>
+run: npm create vite@latest my-react-app --template react <br/>
+choose React then Javascript <br/>
+run: cd my-react-app <br/>
+run: npm install <br/>
+run: npm run dev <br/>
 
-copy and paste the localhost given to a browser
+copy and paste the localhost given to a browser <br/>
 
 
-Replace the exisiting files in the src folder with the ones in the repository and save.
+Replace the exisiting files in the src folder with the ones in the repository and save. <br/>
