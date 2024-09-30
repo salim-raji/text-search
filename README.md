@@ -11,4 +11,4 @@ run: npm run dev <br/>
 copy and paste the localhost given to a browser <br/>
 
 
-Replace the exisiting files in the src folder with the ones in the repository and save. <br/>
+Replace the exisiting src folder with the one in the repository and save. <br/>
